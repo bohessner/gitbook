@@ -1,0 +1,10 @@
+{
+    "title": "My Book",
+    "description": "Description",
+    "author": "Author Name",
+    "gitbook": ">= 3.0.0",
+    "structure": {
+      "summary": "SUMMARY.md",
+      "readme":"README.md"
+    }
+  }
