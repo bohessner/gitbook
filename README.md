@@ -33,8 +33,16 @@ package.json – contains build commands for the book
   }
 }
 
+The final project structure looks like *)
+
+
+
 You can view the book locally by running the command below which starts up a server running on port 4000
 $ npm run docs:watch
 
 Commit the contents to your git repo
 </pre>
+
+*)
+
+![Image from ssmusoke.com](https://ssmusoke.files.wordpress.com/2017/03/screenshot-2017-03-27-11-13-13.png)
